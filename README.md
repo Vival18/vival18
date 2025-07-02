@@ -1,7 +1,7 @@
 # Ciao! 👋 Sono Fabio Vivaldi
 
 🎓 Archeologo per formazione, Web Developer per passione.  
-💻 Sviluppo siti moderni, accessibili e culturali.  
+💻 Sviluppo siti culturali, moderni e accessibili.  
 📍 Attualmente in tirocinio come sviluppatore WordPress.
 
 ## 🔧 Tecnologie principali
