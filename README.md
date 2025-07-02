@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ciao! 👋 Sono Fabio Vivaldi
 
-<!--
-**Vival18/vival18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Archeologo per formazione, Web Developer per passione.  
+💻 Sviluppo siti moderni, accessibili e culturali.  
+📍 Attualmente in tirocinio come sviluppatore WordPress.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologie principali
+- HTML / CSS / JavaScript
+- WordPress (PicoStrap + LiveCanvas)
+- PHP / React (in formazione)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Progetti in evidenza
+- [Portfolio personale](https://github.com/vival18/portfolio)
+- Work in progress...
+
+## 📫 Contatti
+- Email: contatti.mappabianca@gmail.com
+
+
