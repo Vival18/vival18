@@ -15,6 +15,6 @@
 - Work in progress...
 
 ## 📫 Contatti
-- Email: contatti.mappabianca@gmail.com
+- Email: fabio.vivaldi97@gmail.com
 
 
