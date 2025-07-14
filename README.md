@@ -12,7 +12,8 @@
 
 ## 🚀 Progetti in evidenza
 - [Portfolio personale](https://github.com/vival18/portfolio)
-- Work in progress...
+- Mappa Bianca
+- Archaeomap
 
 ## 📫 Contatti
 - Email: fabio.vivaldi97@gmail.com
