@@ -13,6 +13,7 @@
 ## 🚀 Progetti in evidenza
 - [Portfolio personale](https://github.com/vival18/portfolio)
 - Mappa Bianca
+- Restyling sito di Forte Rivoli Veronese
 - Archaeomap
 
 ## 📫 Contatti
