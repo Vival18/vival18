@@ -18,11 +18,11 @@ Git & GitHub
 Portfolio personale
  – vetrina dei miei lavori full-stack
 
-Mappa Bianca – progetto pilota con mappa interattiva e gestione dati, mostra capacità di sviluppo front-end e back-end
+Mappa Bianca – progetto pilota con mappa interattiva e gestione dati, mostra capacità di sviluppo front-end e back-end https://vival18.github.io/mappa-bianca
 
-Restyling siti web – progetti di UI/UX e responsive design
+Restyling siti web – progetti di UI/UX e responsive design https://vival18.github.io/forte-rivoli/
 
-Plugin WordPress autoprodotto – esperienza reale di sviluppo e distribuzione
+Plugin WordPress autoprodotto – esperienza reale di sviluppo e distribuzione https://vival18.github.io/mappa-bianca/archaeomap
 
 📫 Contatti
 
